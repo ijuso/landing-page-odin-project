@@ -84,3 +84,20 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+#quote {
+    background-color: #e5e7eb;
+    color: white;
+    font-size: 36px;
+    font-weight: light italic;
+    text-align: center;
+}
+.information-header-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+.header {
+    background-color: #1F2937;
+}
