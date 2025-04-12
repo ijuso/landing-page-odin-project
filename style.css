@@ -112,6 +112,16 @@ p {
     height: 190px;
     width: 450px;
 }
+.item1 button {
+    background-color: #3882F6;
+    color: white;
+    padding: 5px 25px;
+    margin-top: 13px;
+    border-radius: 7px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
 .item2 {
     background-color: rgb(105, 105, 105);
     height: 190px;
