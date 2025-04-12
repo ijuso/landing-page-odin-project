@@ -102,7 +102,20 @@ p {
     text-align: center;
 }
 .header {
+    display: flex;
     background-color: #1F2937;
+    padding: 80px;
+    justify-content: center;
+    gap: 35px;
+}
+.item1 {
+    height: 190px;
+    width: 450px;
+}
+.item2 {
+    background-color: rgb(105, 105, 105);
+    height: 190px;
+    width: 450px;
 }
 .main {
     display: flex;
