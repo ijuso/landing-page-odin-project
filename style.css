@@ -95,6 +95,7 @@ p {
     font-weight: 200;
     font-style: italic;
     text-align: center;
+    height: 26rem;
 }
 #quote.p{
     font-size: 36px;
@@ -107,12 +108,14 @@ p {
 }
 .header {
     display: flex;
+    height: 30rem;
     background-color: #1F2937;
     padding: 80px;
     justify-content: center;
     gap: 35px;
 }
 .item1 {
+    margin-top: 40px;
     height: 190px;
     width: 450px;
 }
@@ -127,14 +130,13 @@ p {
     cursor: pointer;
 }
 .item2 {
-    background-color: rgb(105, 105, 105);
-    height: 190px;
+    background-color: rgb(161, 161, 161);
+    height: 210px;
     width: 450px;
+    margin-top: 40px;
 }
-.main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#main {
+    height: 26rem;
 }
 .maincontent {
     background-color: #e5e7eb;
