@@ -137,6 +137,9 @@ p {
 }
 #main {
     height: 26rem;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
 }
 .maincontent {
     background-color: #e5e7eb;
