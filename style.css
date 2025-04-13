@@ -20,9 +20,9 @@
     background-color: #1F2937;
     color: white;
     text-align: center;
-    padding: 10px 0;
-    bottom: 0;
+    padding: 30px;
     width: 100%;
+    font-weight: 100;
 }
 
 ul {
@@ -71,13 +71,6 @@ p {
     justify-content: space-around;
 }
 
-.call-to-action-btnn-1{
-   ;
-    
-}
-.call-to-action-btnn-2 {
-
-}
 .btn1 {
     background-color: #3882F6;
     border-color: white;
