@@ -1,2 +1,2 @@
 # landing-page-odin-project
-Odin project to deepen understanding of HTML and CSS. Focus on flexbox.
+odin project to showcase understanding of how HTML and CSS. Project is made to deepen understanding of flexbox
